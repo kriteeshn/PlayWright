@@ -55,7 +55,7 @@
 // }
 // for (const crs in cars) {
 //     let val = cars[crs]
-//     console.log(val[0,2])
+    console.log(val[0,2])
     
         
 //     }
