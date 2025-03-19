@@ -3,7 +3,7 @@
 // let arrandnum = [0,1,2,3,"sachin","dhoni","kane",[1,2,3,4]];
 // console.log(arrandnum[7][2]);
 
-dish.push("mysore masal");
+dish.push("vadaa");
 console.log(dish)
 
 // dish.pop();
