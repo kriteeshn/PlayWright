@@ -1,5 +1,5 @@
 // let dish = ["Pizza","burger","dosa","idly","vada","bonda"];
-// let number = [0,1,2,3,4,5];/
+// let number = [0,1,2,3,4];/
 // let arrandnum = [0,1,2,3,"sachin","dhoni","kane",[1,2,3,4]];
 // console.log(arrandnum[7][2]);
 
